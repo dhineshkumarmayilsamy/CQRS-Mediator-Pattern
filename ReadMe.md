@@ -1,0 +1,1 @@
+CQRS and Mediator pattern .Net Core Implementation
